@@ -1,0 +1,63 @@
+.bar {
+  border: 1px solid silver;
+  border-radius: 100px;
+}
+.bar-active {
+  border: 2px solid #2e86c1;
+  border-radius: 100px;
+  color: #2e86c1;
+  padding-top: 9px;
+  padding-bottom: 9px;
+}
+.nav {
+  height: 80px;
+}
+.card {
+  border-radius: 15px;
+  border: 2px solid #ecf0f1;
+}
+.card-selected {
+  border-radius: 15px;
+  border: 1px solid #ecf0f1;
+  background-color: #ecf0f1;
+}
+.text-silver {
+  color: silver;
+}
+.score {
+  border: 1px solid silver;
+  background-color: white;
+  color: steelblue;
+  font-weight: bold;
+  font-size: 24px;
+  border-radius: 15%;
+  width: 10px;
+}
+.container-score {
+  width: 150px;
+}
+.nb {
+  background-color: #e5e7e9;
+  color: #7b7d7d;
+}
+.nb-selected {
+  border: 2px solid steelblue;
+  color: steelblue;
+  border-radius: 15%;
+}
+.border-drap {
+  border: 7px solid #e5e7e9;
+}
+.fixed-nav {
+  position: absolute;
+  bottom: 5%;
+}
+.score-vide {
+  border: 2px solid steelblue;
+  color: silver;
+  border-radius: 15%;
+  background-color: #e5e7e9;
+}
+.nb-vide {
+  color: #7b7d7d;
+}
